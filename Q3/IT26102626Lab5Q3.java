@@ -15,7 +15,7 @@ public class IT26102626Lab5Q3{
 	//Creating a Scanner object to obtain input
 	Scanner input = new Scanner (System.in);
 	
-	//Prompt the user to enter the strat and end dates
+	//Prompt the user to enter the start and end dates
 	System.out.print("Enter Start Date(1 - 31): ");
 	startDate = input.nextInt();
 	System.out.print("Enter End Date(1 - 31): ");
